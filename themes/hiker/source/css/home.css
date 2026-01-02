@@ -91,7 +91,7 @@ html{
 .navigater-list{
 	font-family: Roboto,Arial;
 	color:#444444;
-	font-weight: 100;
+	font-weight: 400;
 	font-size: 1.2em;
 }
 .navigater-list>a {
@@ -265,4 +265,5 @@ footer>.container>.row>p>a:hover  {
 		letter-spacing: 4px;
 	}
 }
+
 
