@@ -68,7 +68,7 @@ widgets:
 - tag
 #- tagcloud
 #- archive
-- recent_posts
+#- recent_posts
 
 
 # Social Links
@@ -173,6 +173,7 @@ copyright:
 # If you put your blog on GitHub, it should look like:
 # https://github.com/username/blog/edit/master/source/_posts/
 post_edit_url: 
+
 
 
 
