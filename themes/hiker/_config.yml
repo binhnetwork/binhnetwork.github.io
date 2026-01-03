@@ -79,11 +79,11 @@ social:
   #Weibo:
   #Twitter: 
   Facebook: 
-  #Google-plus: 
+  Google: 
   #Instagram: 
   #Pinterest: 
   #Flickr: 
-  email:
+  #email:
 
 
 # Search
@@ -106,8 +106,7 @@ wumii:
 # Available value:
 #    default | gray | normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: default
-
+highlight_theme: night blue
 
 # Article theme color
 # Available value:
@@ -174,5 +173,6 @@ copyright:
 # If you put your blog on GitHub, it should look like:
 # https://github.com/username/blog/edit/master/source/_posts/
 post_edit_url: 
+
 
 
