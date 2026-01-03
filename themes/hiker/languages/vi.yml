@@ -28,7 +28,7 @@ site_uv: 'UV'
 site_pv: 'PV'
 article_pv: 'PV:'
 read_more: Đọc thêm
-contents: Contents
+contents: Nội dung
 none: None
 donation:
     button_text: 'Donate'
@@ -45,6 +45,7 @@ copyright:
     license_title: "Copyright Notice: "
     left_license_content: "All articles in this blog are licensed under "
     right_license_content: "unless stating additionally."    
+
 
 
 
