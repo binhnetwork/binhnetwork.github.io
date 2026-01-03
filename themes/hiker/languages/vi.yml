@@ -6,8 +6,8 @@ search: Tìm kiếm
 tags: Từ khóa
 tagcloud: Mây từ khóa
 tweets: Tweets
-prev: <<<
-next: >>>
+prev: Bài trước
+next: Bài sau
 comment: Bình luận
 edit: Edit
 archive_a: Archives
@@ -45,5 +45,6 @@ copyright:
     license_title: "Copyright Notice: "
     left_license_content: "All articles in this blog are licensed under "
     right_license_content: "unless stating additionally."    
+
 
 
