@@ -7,15 +7,15 @@ tags: Từ khóa
 tagcloud: Mây từ khóa
 tweets: Tweets
 prev: Bài trước
-next: Bài sau
+next: Bài tiếp theo
 comment: Bình luận
 edit: Edit
 archive_a: Archives
 archive_b: "Archives: %s"
 page: Trang %d
 recent_posts: Bài viết mới
-newer: Bài mới
-older: Bài cũ
+newer: Bài tiếp theo
+older: Bài trước
 share: Chia sẻ
 powered_by: Powered by
 rss_feed: RSS Feed
@@ -45,6 +45,7 @@ copyright:
     license_title: "Copyright Notice: "
     left_license_content: "All articles in this blog are licensed under "
     right_license_content: "unless stating additionally."    
+
 
 
 
