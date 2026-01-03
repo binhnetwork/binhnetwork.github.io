@@ -33,7 +33,7 @@ none: None
 donation:
     button_text: 'Donate'
 insight:
-    hint: 'Type something...'
+    hint: 'Từ khóa ...'
     posts: 'Posts'
     pages: 'Pages'
     categories: 'Categories'
@@ -45,6 +45,7 @@ copyright:
     license_title: "Copyright Notice: "
     left_license_content: "All articles in this blog are licensed under "
     right_license_content: "unless stating additionally."    
+
 
 
 
