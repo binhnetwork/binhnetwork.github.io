@@ -42,7 +42,7 @@ home_logo_image:
 
 
 # AboutPage background
-about_big_image: [css/images/pose.jpg]
+#about_big_image: [css/images/pose.jpg]
 
 
 # Archive pagination
@@ -66,8 +66,8 @@ widgets:
 - social
 - category
 - tag
-- tagcloud
-- archive
+#- tagcloud
+#- archive
 - recent_posts
 
 
@@ -75,14 +75,14 @@ widgets:
 # Key is the name of FontAwsome icon.
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
-  Github:
-  Weibo:
-  Twitter: 
+  #Github:
+  #Weibo:
+  #Twitter: 
   Facebook: 
-  Google-plus: 
-  Instagram: 
-  Pinterest: 
-  Flickr: 
+  #Google-plus: 
+  #Instagram: 
+  #Pinterest: 
+  #Flickr: 
   email:
 
 
@@ -174,4 +174,5 @@ copyright:
 # If you put your blog on GitHub, it should look like:
 # https://github.com/username/blog/edit/master/source/_posts/
 post_edit_url: 
+
 
