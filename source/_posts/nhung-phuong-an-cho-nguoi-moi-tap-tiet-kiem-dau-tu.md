@@ -2,9 +2,9 @@
 title: Những phương án đáng cân nhắc cho người mới tập tiết kiệm, đầu tư
 comments: true
 categories:
-	- Đầu tư
+- Đầu tư
 tags:
-	- Lâm Minh Chánh
+- Lâm Minh Chánh
 ---
 
 Sắm vàng, gửi tiết kiệm ngân hàng hay đầu tư chứng chỉ quỹ là những phương án đáng cân nhắc cho các người mới tập tiết kiệm, đầu tư. Theo chia sẻ của chuyên gia tài chính Lâm Minh Chánh gợi ý một số kênh đầu tư cho mức tiết kiệm 5 triệu đồng/tháng, đảm bảo tạo thêm nguồn thu nhập cá nhân. Lời khuyên này cũng hữu dụng với người để dư 10-20 triệu đồng/tháng.
