@@ -1,5 +1,6 @@
 ---
 title: Những phương án đáng cân nhắc cho người mới tập tiết kiệm, đầu tư
+date: 2026-01-01
 comments: true
 categories:
 - Đầu tư
@@ -14,7 +15,6 @@ Nội dung chi tiết được chia sẻ trên Zingnews : https://lifestyle.zing
 ## MỘT SỐ Ý CẦN NHỚ
 
 ### Lưu ý 1:
-
 Lạm phát năm nay của Việt Nam được dự đoán trong khoảng: 4.0% – 5.2% tuỳ tổ chức dự đoán. Mức 4.6% là mức nhiều tổ chức dự đoán nhất.
 Khi lạm phát xảy ra, tiền của chúng ta không giảm. Nhưng giá trị sử dụng của chúng sẽ giảm.
 Giả sử lạm phát năm nay là 4.6%. Thì 100 triệu vào đầu năm, đến cuối năm vẫn là 100 triệu, nhưng giá trị sử dụng sẽ là = 100/(1+4.6%) = 95.56
